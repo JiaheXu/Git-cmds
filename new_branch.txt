@@ -10,3 +10,16 @@ git branch -d new_branch #删除本地分支
 #git push origin local_branch_name:remote_branch_name
 git push origin new_branch2:new_branch_2
 
+# merge main and new_branch -> main
+git checout main
+git merge origin/new_branch2
+git merge new_branch # there will be conflicts, you need to solve them
+git add *.*
+git commit -m "update"
+git push origin main
+
+git status
+
+git checkout main
+git cherry-pick cherry-pick # or hash value
+
