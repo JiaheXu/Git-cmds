@@ -17,3 +17,8 @@ git merge new_branch # there will be conflicts, you need to solve them
 git add *.*
 git commit -m "update"
 git push origin main
+
+git status
+
+git checkout main
+git cherry-pick cherry-pick # or hash value
