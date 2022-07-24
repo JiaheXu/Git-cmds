@@ -22,3 +22,5 @@ git status
 
 git checkout main
 git cherry-pick cherry-pick # or hash value
+# cherry-pick branch
+
