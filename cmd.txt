@@ -1,0 +1,10 @@
+scp jiahe.xu@MJ0F4TPH.faradayfuture.com:/home/ffad/v3nk/release/docker/ffad_dev-20220620.tar.gz ~/
+scp jiahe.xu@MJ0F4TPH.faradayfuture.com:/home/ffad/v3nk/release/third-party/third_party-20220623.tar.gz ~/
+nvidia-smi
+
+$HOME/project/scripts/create_user.sh
+sudo docker ps -a
+sudo docker rename $CONTAINER_ID your_docker_container_name (rename it to a name you can remember easily)
+ 
+sudo docker start -ai $CONTAINER_ID (to start a previous stopped docker container)
+sudo docker exec -it $CONTAINER_ID /bin/bash (to open a new bash shell from a running docker container)
