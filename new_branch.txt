@@ -26,3 +26,4 @@ git cherry-pick cherry-pick # or hash value
 #git 命令代替gitk查看节点树
 git log --oneline --graph --decorate --all
 
+
