@@ -25,3 +25,8 @@ git cherry-pick cherry-pick # or hash value
 
 #git 命令代替gitk查看节点树
 git log --oneline --graph --decorate --all
+
+git rebase -i HEAD~3 # 合并三个commit
+# pick hash1 a
+# s hash2 b
+# s hash3 c
