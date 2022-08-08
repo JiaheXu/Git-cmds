@@ -1,0 +1,53 @@
+搜例子去 pinterest
+
+class1 
+38min 文字可以用橡皮擦部分编辑(栅格化) 
+40min 动画协助 on edit draw assistant，可以画水平线和垂直线
+42min 对称功能
+43min add reference
+47min png有透明格式 jpg默认白底
+48min导出缩时视频 (绘画过程)
+1:14min 蒙版
+1:20min 框架透明度低再填充会填充全屏 是否打开了参考 是否再同一图层
+1:30min example
+1. 6B pen 画草图
+2. 描一遍草图
+2:10min 画手的阴影 alpha_lock(同一层) or 剪辑蒙版(不会画到外面)
+
+class2 风格: 
+doodle风格 线面结合,风格活泼,颜色明快 涂鸦风
+扁平风格 用色彩构成画面
+水彩
+厚涂 (画像)
+儿童插画
+国风
+花瓣 站酷 小红书 pinterest instagram(网站 找画风的图)
+学习顺序 拓 临 抄/改 融/仿 创
+
+class3 扁平风格
+
+class4 配色
+冷色调 暖色调 中性色， 需要注意冷暖平衡
+coolers.co
+1:30min 阴影可以用软画笔画好 再拿橡皮(软画笔)沿边擦淡
+
+class5 光影 https://www.malikafavre.com/  
+普通暗影效果 
+1 用剪辑蒙版+黑or白笔刷 调透明度以变暗或变亮 
+2 用剪辑蒙版+N(一个效果键)
+3 自己调颜色
+人物外形：pose arch 
+先画人体的草稿 用椭圆 中间画十字来表方向和对称轴
+再画人的衣服
+
+class6 风景 https://dribbble.com/febinraj
+色系 https://antoniapang.com/
+莫兰迪色系: 让人舒服的色系
+
+class7 水面倒影扭曲: 特效(左上角第二个button)里的liquify 
+
+抠图(矩形之类规则的图形): 用锁套工具(左上角第三个工具) 框一个矩形，在用软笔画涂白
+
+58min 如果画框前有物体挡住了部分矩形， 可以用锁套工具勾哟个scretch 再用橡皮擦去除矩形(得到画框)
+之后把画框层放到图片上方，最后用橡皮擦在画框层修边
+
